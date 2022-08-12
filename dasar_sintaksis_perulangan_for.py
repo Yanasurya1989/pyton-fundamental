@@ -1,5 +1,5 @@
 """
-Looping for read books
+Looping with for
 """
 print("Ibu berkata, baca semua bukumu")
 jumlah_buku = 100
