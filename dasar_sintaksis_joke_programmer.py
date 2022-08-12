@@ -32,3 +32,4 @@ else:
 
 print("Budi kembali kerumah")
 print("Dan menyampaikan hasilnya kepada ibu")
+print('_' * 20)
