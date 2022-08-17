@@ -1,11 +1,13 @@
 """
 Looping with for
 """
-print("Ibu berkata, baca semua bukumu")
-jumlah_buku = 100
+print('Mom said : "read ten this books"')
 
-buku_sudah_dibaca = 0
-for buku_sudah_dibaca in range(1, jumlah_buku + 1):
-    print(f"buku ke {buku_sudah_dibaca} sudah dibaca")
+book_count = 10
+book_readed = 0
 
-print(f"jumlah buku yang sudah dibaca {buku_sudah_dibaca}")
+print("i had read 1 of book")
+for book_readed in range(2, book_count + 1):
+    print(f"i had read {book_readed} of books")
+
+print(f" now i had read {book_readed} books")
